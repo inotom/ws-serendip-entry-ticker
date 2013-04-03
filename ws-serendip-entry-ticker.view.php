@@ -6,7 +6,7 @@
  * @since 1.0
  *
  * file created in 2013/04/02 20:10:44.
- * LastUpdated :2013/04/03 09:14:36.
+ * LastUpdated :2013/04/03 22:16:15.
  * author iNo
  */
 
@@ -61,5 +61,5 @@ EOF;
 	}
 }
 
-// vim:set syn=wordpress:noet:fenc=utf8:fdl=0 fdm=marker:ts=4 sw=4 sts=0:
+// vim:set noet:fenc=utf8:fdl=0 fdm=marker:ts=4 sw=4 sts=0:
 ?>

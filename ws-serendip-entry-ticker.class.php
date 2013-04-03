@@ -6,7 +6,7 @@
  * @since 1.0
  *
  * file created in 2013/04/02 20:08:11.
- * LastUpdated :2013/04/03 09:21:34.
+ * LastUpdated :2013/04/03 22:15:27.
  * author iNo
  */
 
@@ -88,5 +88,5 @@ class Serendip_Entry_Ticker {
 	}
 }
 
-// vim:set syn=wordpress:noet:fenc=utf8:fdl=0 fdm=marker:ts=4 sw=4 sts=0:
+// vim:set noet:fenc=utf8:fdl=0 fdm=marker:ts=4 sw=4 sts=0:
 ?>
